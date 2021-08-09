@@ -3,7 +3,6 @@
 * 2020 Alumnus of the Google Africa Developer Training Program ([Android Track](https://adscerts.com/scholar/0992DB668FFF9FDF))
 
 ## Connect with me.
-* **_Mobile_**: +2348109442940
 * **_Email_**: ifeakachukwuosakwe@gmail.com
 * **_Twitter_**: [@rex_filius](https://twitter.com/rex_filius)
 * **_Linkedin_**: [Ifeakachukwu Kelvin Osakwe](https://www.linkedin.com/in/ifykelvinosakwe)
