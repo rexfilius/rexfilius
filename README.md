@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Kelvin.
 * Software engineer and Android developer.
-* 2020 Alumnus of the Google Africa Developer Training Program ([Android Track](https://adscerts.com/scholar/0992DB668FFF9FDF))
+* 2020 Alumnus of the Google Africa Developer Scholarship Program ([Android Track](https://adscerts.com/scholar/0992DB668FFF9FDF))
 
 ## Connect with me.
 * **_Email_**: ifeakachukwuosakwe@gmail.com
