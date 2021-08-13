@@ -19,7 +19,7 @@
 ## Languages && Tools.
 Kotlin. Java. Python. SQL.  
 Retrofit. Hilt. Glide/Picasso/Coil.  
-Git. Android Studio. Firebase. Spring.
+Git. Android Studio. Spring.
 
 #### [My Resume](https://drive.google.com/drive/folders/1-9CYgkAveISY8Zu60EDImhuuHrcRXgff)
 <!--
