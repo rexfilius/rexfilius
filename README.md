@@ -8,7 +8,7 @@
 * **_Linkedin_**: [Ifeakachukwu Kelvin Osakwe](https://www.linkedin.com/in/ifykelvinosakwe)
 
 ## Here's some pet projects I've built.
-**[Notes](https://github.com/rexfilius/Notes)** == A note-taking Android app that saves notes to a database.
+**[Notes](https://github.com/rexfilius/Notes)** == A note-taking Android app.
 
 **[MovieViewer](https://github.com/rexfilius/MovieViewer)** == Android app that shows a list of most popular movies from [MovieDB](www.themoviedb.org)
 
