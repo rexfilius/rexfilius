@@ -26,11 +26,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="100" height="150"/></div>
 
 ## Connect with me :handshake:
-<div align="left"
-<a href="https://www.twitter.com/rex_filius" target="_blank">
+<div align="left">
+<a href="www.twitter.com/rex_filius" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/ifykelvinosakwe" target="_blank">
+<a href="www.linkedin.com/in/ifykelvinosakwe" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a></div>
 
