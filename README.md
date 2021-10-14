@@ -2,11 +2,6 @@
 * Software engineer and Mobile developer.
 * 2020 Alumnus of the Google Africa Developer Scholarship Program ([Android Track](https://adscerts.com/scholar/0992DB668FFF9FDF))
 
-## Connect with me :handshake:
-* **_Email_**: ifeakachukwuosakwe@gmail.com
-* **_Twitter_**: [@rex_filius](https://twitter.com/rex_filius)
-* **_Linkedin_**: [Ifeakachukwu Kelvin Osakwe](https://www.linkedin.com/in/ifykelvinosakwe)
-
 ## :construction_worker_man: My Pet Projects :man_technologist:
 **[Notes](https://github.com/rexfilius/Notes)** == A note-taking Android app.
 
@@ -30,18 +25,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" width="100" height="150"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="100" height="150"/></div>
 
+## Connect with me :handshake:
+<div align="left"
+<a href="https://twitter.com/rex_filius" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/ifykelvinosakwe" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a></div>
+
 ### :point_right: [Checkout my Resume](https://drive.google.com/drive/folders/1-9CYgkAveISY8Zu60EDImhuuHrcRXgff)
-<!--
-**rexfilius/rexfilius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
