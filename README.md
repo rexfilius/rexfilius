@@ -9,8 +9,6 @@
 
 **[EarthQuakeWatcher](https://github.com/rexfilius/EarthQuakeWatcher)** == Android app that shows the locations of recent earthquakes on a map
 
-**[QuizApp](https://github.com/rexfilius/QuizApp)** == A single screen android app that displays random quizzes from an API
-
 ## Tools && Technologies :gear:
 <div align="left">
 <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white" height="35"/>
