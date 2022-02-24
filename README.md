@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Kelvin :relaxed:
-* Software engineer and Mobile developer.
+* Software engineer - Flutter & native Anroid.
 * 2020 Alumnus of the Google Africa Developer Scholarship Program ([Android Track](https://adscerts.com/scholar/0992DB668FFF9FDF))
 
 ## :construction_worker_man: My Pet Projects :man_technologist:
