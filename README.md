@@ -3,17 +3,16 @@
 
 Asides writing Flutter, I love learning and upgrading my skills and knowledge as a Software Engineer.  
 As a hobby, anytime I learn a language, I build a console application in that language 'cause the best way to learn is by building.  
+
 One of such app, I called it a ShapesCalculator and it has been written in [Kotlin](https://github.com/rexfilius/ShapesCalculator-Kotlin), [Dart](https://github.com/rexfilius/ShapesCalculator-Dart), [Java](https://github.com/rexfilius/ShapesCalculator-Java) and [Python](https://github.com/rexfilius/ShapesCalculator-Python).  
 
 I have been a professional developer since 2019, and over time I have added langauges and technologies to my toolset, and obviously, a lot of experience. You can find me on [Twitter](https://twitter.com/rex_filius) & [LinkedIn](https://linkedin.com/in/ifykelvinosakwe).
 
 
 ## :construction_worker_man: My Pet Projects :man_technologist:
-**[Notes](https://github.com/rexfilius/Notes)** == A note-taking Android app.
+**[movie_app_flutter](https://github.com/rexfilius/movie_app_flutter)** == A movie app.
 
-**[MovieViewer](https://github.com/rexfilius/MovieViewer)** == Android app that shows a list of most popular movies from [MovieDB](www.themoviedb.org)
-
-**[EarthQuakeWatcher](https://github.com/rexfilius/EarthQuakeWatcher)** == Android app that shows the locations of recent earthquakes on a map
+**[news_app_flutter](https://github.com/rexfilius/news_app_flutter)** == A news app.
 
 ## Tools && Technologies :gear:
 <div align="left">
