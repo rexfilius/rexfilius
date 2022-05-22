@@ -1,6 +1,12 @@
 # Hi there 👋 I'm Kelvin :relaxed:
-* Software engineer - Flutter & native Android.
-* 2020 Alumnus of the Google Africa Developer Scholarship Program ([Android Track](https://adscerts.com/scholar/0992DB668FFF9FDF))
+### Current Job title: Flutter Developer
+
+Asides writing Flutter, I love learning and upgrading my skills and knowledge as a Software Engineer.  
+As a hobby, anytime I learn a language, I build a console application in that language 'cause the best way to learn is by building.  
+One of such app, I called it a ShapesCalculator and it has been written in [Kotlin](https://github.com/rexfilius/ShapesCalculator-Kotlin), [Dart](https://github.com/rexfilius/ShapesCalculator-Dart), [Java](https://github.com/rexfilius/ShapesCalculator-Java) and [Python](https://github.com/rexfilius/ShapesCalculator-Python).  
+
+I have been a professional developer since 2019, and over time I have added langauges and technologies to my toolset, and obviously, a lot of experience. You can find me on [Twitter](https://twitter.com/rex_filius) & [LinkedIn](https://linkedin.com/in/ifykelvinosakwe).
+
 
 ## :construction_worker_man: My Pet Projects :man_technologist:
 **[Notes](https://github.com/rexfilius/Notes)** == A note-taking Android app.
@@ -35,14 +41,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" width="100" height="150"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" width="100" height="150"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="100" height="150"/></div> -->
-
-## Connect with me :handshake:
-<div align="left">
-<a href="https://twitter.com/rex_filius" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/ifykelvinosakwe" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a></div>
 
 ### :point_right: [Checkout my Resume](https://drive.google.com/drive/folders/1-9CYgkAveISY8Zu60EDImhuuHrcRXgff)
