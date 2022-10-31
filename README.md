@@ -1,12 +1,12 @@
 # Hi there 👋 I'm Ify :relaxed:
-### Current Job title: Flutter Developer
+### current job : Flutter Developer
 
 Beyond working with Flutter, I love learning and upskilling as a Software Engineer.  
 As a hobby, anytime I learn a language, I build a console application in that language, and keep updating the code as new language features get added. I believe the best way to learn is by building.  
 
 One of such console app, I called it a ShapesCalculator and it has been written in [Kotlin](https://github.com/rexfilius/ShapesCalculator-Kotlin), [Dart](https://github.com/rexfilius/ShapesCalculator-Dart), [Java](https://github.com/rexfilius/ShapesCalculator-Java) and [Python](https://github.com/rexfilius/ShapesCalculator-Python).  
 
-I have been a professional developer over 3 years and counting, and over time I have added languages and technologies to my toolset, and obviously, a lot of experience. You can find me on [Twitter](https://twitter.com/rex_filius) & [LinkedIn](https://linkedin.com/in/ifykelvinosakwe).
+I have been a professional developer for 3+ years, and over time I have added languages and technologies to my toolset, and obviously, a lot of experience. You can find me on [Twitter](https://twitter.com/rex_filius) & [LinkedIn](https://linkedin.com/in/ifykelvinosakwe).
 
 
 ## :construction_worker_man: My Pet Projects :man_technologist:
