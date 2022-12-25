@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Ify :relaxed:
-### current job : Flutter Developer
+#### I currently work as a Flutter Developer
 
 Beyond working with Flutter, I love learning and upskilling as a Software Engineer.  
 As a hobby, anytime I learn a language, I build a console application in that language, and keep updating the code as new language features get added. I believe the best way to learn is by building.  
