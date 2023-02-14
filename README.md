@@ -10,9 +10,9 @@ I have been a professional developer for 3+ years, and over time I have added la
 
 
 ## :construction_worker_man: My Pet Projects :man_technologist:
-**[movie_app_flutter](https://github.com/rexfilius/movie_app_flutter)** == A movie app.
+**[flick](https://github.com/rexfilius/flick)** = a directory app for movies and tv shows.
 
-**[news_app_flutter](https://github.com/rexfilius/news_app_flutter)** == A news app.
+**[news_app_flutter](https://github.com/rexfilius/news_app_flutter)** = A news app.
 
 ## Tools && Technologies :gear:
 <div align="left">
@@ -28,4 +28,4 @@ I have been a professional developer for 3+ years, and over time I have added la
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" height="40"/>
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" height="40"/></div>
 
-### :point_right: [Checkout my CV](https://drive.google.com/drive/folders/1-9CYgkAveISY8Zu60EDImhuuHrcRXgff)
+<!-- ### :point_right: [Checkout my CV](https://drive.google.com/drive/folders/1-9CYgkAveISY8Zu60EDImhuuHrcRXgff) -->
