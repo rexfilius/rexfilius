@@ -1,8 +1,8 @@
 # Hi there 👋 I'm Ify :relaxed:
-#### I currently work as a Flutter Developer
+#### I currently work as a Mobile Developer
 
-Beyond working with Flutter, I love learning and upskilling as a Software Engineer.  
-As a hobby, anytime I learn a language, I build a console application in that language, and keep updating the code as new language features get added. I believe the best way to learn is by building.  
+Beyond working with on mobile apps, I love learning and upskilling as a Software Engineer.  
+As a hobby, I build a console application in any language I learn, and keep updating the code as new language features get added. I believe the best way to learn is by building.  
 
 One of such console app, I called it a ShapesCalculator and it has been written in [Kotlin](https://github.com/rexfilius/ShapesCalculator-Kotlin), [Dart](https://github.com/rexfilius/ShapesCalculator-Dart), [Java](https://github.com/rexfilius/ShapesCalculator-Java) and [Python](https://github.com/rexfilius/ShapesCalculator-Python).  
 
