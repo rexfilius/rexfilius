@@ -6,7 +6,7 @@ As a hobby, I build a console application in any language I learn, and keep upda
 
 One of such console app, I called it a ShapesCalculator and it has been written in [Kotlin](https://github.com/rexfilius/ShapesCalculator-Kotlin), [Dart](https://github.com/rexfilius/ShapesCalculator-Dart), [Java](https://github.com/rexfilius/ShapesCalculator-Java) and [Python](https://github.com/rexfilius/ShapesCalculator-Python).  
 
-I have been a professional developer for 3+ years, and over time I have added languages and technologies to my toolset, and obviously, a lot of experience. You can find me on [Twitter](https://twitter.com/rex_filius) & [LinkedIn](https://linkedin.com/in/ifykelvinosakwe).
+I have been a professional developer for 4 years, and over time I have added languages and technologies to my toolset, and obviously, a lot of experience. You can find me on [Twitter](https://twitter.com/rex_filius) & [LinkedIn](https://linkedin.com/in/ifykelvinosakwe).
 
 
 ## :construction_worker_man: My Pet Projects :man_technologist:
