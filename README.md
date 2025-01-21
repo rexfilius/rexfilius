@@ -10,9 +10,9 @@ I have been a professional developer for 4 years, and over time I have added lan
 
 
 ## :construction_worker_man: My Pet Projects :man_technologist:
-**[flick](https://github.com/rexfilius/flick)** = a directory app for movies and tv shows.
+**[tea](https://github.com/rexfilius/tea)** = API for a blog app.
 
-**[news_app_flutter](https://github.com/rexfilius/news_app_flutter)** = A news app.
+**[shopper](https://github.com/rexfilius/shopper)** = API for an ecommerce app.
 
 ## Tools && Technologies :gear:
 <div align="left">
