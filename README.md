@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Ify :relaxed:
-#### I currently work as a Mobile Developer
+#### I currently work as a Mobile and Backend Developer
 
 Beyond working with on mobile apps, I love learning and upskilling as a Software Engineer.  
 As a hobby, I build a console application in any language I learn, and keep updating the code as new language features get added. I believe the best way to learn is by building.  
